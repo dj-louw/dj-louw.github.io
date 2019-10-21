@@ -1,5 +1,4 @@
 ---
-title: "Testing some things"
 layout: default
 ---
 
