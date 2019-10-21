@@ -1,6 +1,6 @@
 ---
 title: "Testing some things"
-published: true
+layout: default
 ---
 
 # Curriculum Vitae - Daniel Louw
